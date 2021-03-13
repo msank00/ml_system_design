@@ -8,7 +8,7 @@ This repo contains all the papers, books, blogs that is relevant for Machine Lea
 
 ## Talk
 
-- [Deploying Machine Learning Models in Python](http://talks.albertauyeung.com/pycon2018-deploy-ml-models/#1) :zap:
+- [Deploying Machine Learning Models in Python - PyCon HK 2018](http://talks.albertauyeung.com/pycon2018-deploy-ml-models/#1) :zap:
 
 ## Blogs:
 
