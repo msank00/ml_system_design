@@ -4,7 +4,11 @@ This repo contains all the papers, books, blogs that is relevant for Machine Lea
 
 ## Course:
 
-- [ ] [CS 329S: Machine Learning Systems Design - Winter 2021 - Chip Huyen](https://stanford-cs329s.github.io/) :rocket:
+- [CS 329S: Machine Learning Systems Design - Winter 2021 - Chip Huyen](https://stanford-cs329s.github.io/) :rocket:
+
+## Talk
+
+- [Deploying Machine Learning Models in Python](http://talks.albertauyeung.com/pycon2018-deploy-ml-models/#1) :zap:
 
 ## Blogs:
 
